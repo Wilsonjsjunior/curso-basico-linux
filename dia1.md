@@ -52,7 +52,7 @@ ls ../
 ```
 ... ou um diretório qualquer no sistema, desde que você forneça seu 'path' completo, ou ABSOLUTO.
 ```
-ls /home/yourusername
+ls /home/convidado
 ```
 
 Os caracteres '../' são usados para se referir aos diretórios ACIMA e podem ser usados em sequência '../../../'  
@@ -118,3 +118,8 @@ rmdir ../dir4
 rmdir ../dir3
 rm -rf ../dir3
 ```
+
+# Exercício
+- Vá para o seu home, crie 3 níveis de diretórios com nomes a sua escolha; entre dentro do segundo deles  
+crie um arquivo vazio chamado temp.txt; renomeie esse arquivo para temp2.pl, mova esse documento para o terceiro nível  
+utilizando path relativo; volte ao seu home inicial; remova toda essa estrutura de pasta criada de uma vez.
