@@ -157,7 +157,7 @@ cd newDir
 wget ftp://ftp.ncbi.nlm.nih.gov/genomes/genbank/fungi/Aspergillus_flavus/latest_assembly_versions/GCA_000952835.1_ASM95283v1/GCA_000952835.1_ASM95283v1_genomic.fna.gz
 zcat GCA_000952835.1_ASM95283v1_genomic.fna.gz | less
 
-wget https://github.com/Varstation/curso-basico-linux/blob/master/tarfile.tar.gz
+wget https://github.com/Varstation/curso-basico-linux/raw/master/tarfile.tar.gz
 ```
 
 ## Organizando arquivos
