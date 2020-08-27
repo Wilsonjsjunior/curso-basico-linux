@@ -159,6 +159,10 @@ zcat GCA_000952835.1_ASM95283v1_genomic.fna.gz | less
 
 wget https://github.com/Varstation/curso-basico-linux/raw/master/tarfile.tar.gz
 ```
+* O comando **'git clone'** pode ser usado para copiar TODO o conteúdo disponível em um repositório no GitHub:
+```
+git clone https://github.com/Varstation/curso-basico-linux
+```
 
 ## Organizando arquivos
 
