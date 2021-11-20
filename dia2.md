@@ -8,8 +8,9 @@ Este curso tem como objetivos abordar de forma teórico-prática os **conceitos 
 
 * **Ctrl+A** Move o cursor para o início da linha de comando.
 * **Ctrl+E** Move o cursor para o final da linha de comando.
-* **Ctrl+C** Interrompe um comando em andamento e retorna ao prompt
+* **Ctrl+C** Interrompe um comando em andamento e retorna ao prompt.
 * **Ctrl+L** Limpa a tela do terminal.
+* **Ctrl+L** Limpa a linha de comando.
 
 
 ## Direcionando a saída para escrita, visualizando e manipulando o conteúdo de arquivos
